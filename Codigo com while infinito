@@ -1,0 +1,5 @@
+while True:
+  algo = input('Digite algo: ')
+  if algo == 'fim':
+    break
+print('Fim do programa')
